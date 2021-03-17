@@ -45,7 +45,7 @@ function nthFibo(n) {
 
 ## Work experience
 
-**01/2017 – till now  –Freelance Front-end Developer**
+**01/2017 – 06/2018 – Freelance Front-end Developer**
 
 Responsibilities:
 -   Fixing bugs and improving usability (Git, Sass, Drupal)
