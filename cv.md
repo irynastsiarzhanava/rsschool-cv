@@ -1,4 +1,4 @@
-# <div align="center">Iryna Stsiarzhanava - <br>Front-end Developer</div>
+# Iryna Stsiarzhanava - Front-end Developer
 
 
 ## Contact Information
