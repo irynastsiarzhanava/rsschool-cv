@@ -26,7 +26,7 @@ Hi! I am a front-end developer with 3-years experience of working in real commer
 **Development method experience**: Scrum - medium  
 **Languages**: English (upper-intermediate), Russian/Belorussian (native), Polish (upper-intermediate), Italian (elementary)
 
-## Code examples
+# Code examples
 
 Function that when given a number (n) returns the n-th number in the Fibonacci Sequence.
 ```
