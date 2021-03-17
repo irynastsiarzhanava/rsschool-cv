@@ -1,11 +1,11 @@
-# <div align="center">Iryna Stsiarzhanava - <br> Front-end Developer</div>
+# <div align="center">Iryna Stsiarzhanava - <br>Front-end Developer</div>
 
 
 ## Contact Information
-**Email** - <iryna.stsiarzhanava@gmail.com>
-**Linkedin profile** - <https://www.linkedin.com/in/iryna-stsiarzhanava-36900959>
-**Phone number** +48-530-432-344
-**Adress** - ul. Katowicka 57/B, 31-351, Kraków
+**Email** - <iryna.stsiarzhanava@gmail.com><br>
+**Linkedin profile** - <https://www.linkedin.com/in/iryna-stsiarzhanava-36900959><br>
+**Phone number** +48-530-432-344<br>
+**Adress** - ul. Katowicka 57/B, 31-351, Kraków<br>
 
 
 # Summary
