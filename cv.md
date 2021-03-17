@@ -43,7 +43,12 @@ function nthFibo(n) {
 }
 ```
 
-## Work experience
+# Work experience
+
+**05/2018 - till now** - UI Developer - Grid Dynamics, Kraków, Poland
+Responsibilities:
+- Workign for .Net project using JQuery, Sass
+- Improve knowlenge in accesibillity coding standarts 
 
 **01/2017 – 06/2018 – Freelance Front-end Developer**
 
