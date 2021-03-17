@@ -25,3 +25,20 @@ Hi! I am a front-end developer with 3-years experience of working in real commer
 **Editors**: Sublime Text, Adobe Photoshop/Gimp - advanced  
 **Development method experience**: Scrum - medium  
 **Languages**: English (upper-intermediate), Russian/Belorussian (native), Polish (upper-intermediate), Italian (elementary)
+
+## Code examples
+
+Function that when given a number (n) returns the n-th number in the Fibonacci Sequence.
+```
+function nthFibo(n) {
+  var i;
+  var fib = [];
+  
+  fib[0] = 0;
+  fib[1] = 1;
+  for (i = 2; i <= 100; i++) {
+    fib[i] = fib[i - 2] + fib[i - 1];  
+  }
+  return fib[n-1];
+}
+```
