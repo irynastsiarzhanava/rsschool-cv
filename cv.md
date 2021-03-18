@@ -109,36 +109,36 @@ Responsibilities:
 
 # Education
 
-**1993 – 2004 – Gymnasium №1 of Bobruisk, Belarus**
+- **1993 – 2004 – Gymnasium №1 of Bobruisk, Belarus**
 
 Specialization: Physics and Mathematics Profile (including the subject "Programming in Pascal»)
 
-**2004 – 2009 – Belarusian State Economic University (BSEU), Minsk, Belarus**
+- **2004 – 2009 – Belarusian State Economic University (BSEU), Minsk, Belarus**
 
 Department: Finance and Banking
 Specialization: finance and credit
 Qualification: economist;
 Full-time budget form of education;
 
-04/2012 – 06/2012 – Streamline language school "Intensive Communicative English course " (48 h), Intermediate + level,
+- **04/2012 – 06/2012 – Streamline language school "Intensive Communicative English course "** (48 h), Intermediate + level,
 
-### Certificates
+#### Certificates
 
-**06/2012 - 08/2012 – Educational Center “Shipalex”**
+- **06/2012 - 08/2012 – Educational Center “Shipalex”**
 Course: Web Design - HTML, CSS, SEO (45h), Certificate
 
-**09/2012 – 12/2012 – Educational Center of Hi-Tech Park of Belarus** 
+- **09/2012 – 12/2012 – Educational Center of Hi-Tech Park of Belarus** 
 Course: Web Developer - WD02 JavaScript (48h), WD03 MySQL (36h), WD04 PHP (44h), 3 Certificates
 
-### Courses
+#### Courses
 
-**03/2019 - Udemy course "Angular - The Complete Guide"**
+- **03/2019 - Udemy course "Angular - The Complete Guide"**
 Skill level: All Levels
 
-**06/2018 - Udemy course "Advanced Javascript"**
+- **06/2018 - Udemy course "Advanced Javascript"**
 Skill level: Intermediate
 
-### Other
+#### Other
 
-**11/2019 - CodeteCon Conference**, Kraków, Poland
-**10/2018 -  JS Poland - International JavaScript Conference**, Warsaw, Poland
+- **11/2019 - CodeteCon Conference**, Kraków, Poland
+- **10/2018 -  JS Poland - International JavaScript Conference**, Warsaw, Poland
