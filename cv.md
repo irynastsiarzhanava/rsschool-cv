@@ -142,3 +142,7 @@ Skill level: Intermediate
 
 - **11/2019 - CodeteCon Conference**, Kraków, Poland
 - **10/2018 -  JS Poland - International JavaScript Conference**, Warsaw, Poland
+
+# English
+
+My English level is upper intermediate. I can both write and speak fluently. My experience with English is based on working in international teams (with people from the USA, Hungary, Dania, Russia), working for the USA customer and having daily meetings with Americans, leaving in London for 1 month.
