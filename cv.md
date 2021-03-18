@@ -45,7 +45,8 @@ function nthFibo(n) {
 
 # Work experience
 
-**05/2018 - till now** - UI Developer - Grid Dynamics, Kraków, Poland
+**05/2018 - till now - UI Developer - Grid Dynamics, Kraków, Poland**
+
 Responsibilities:
 - Workign for .Net project using JQuery, Sass
 - Improve knowlenge in accesibillity coding standarts 
@@ -105,3 +106,39 @@ Responsibilities:
 Responsibilities:
 -   Working with catalog’s CMS (analytical work on creating/updating categories and products, creating product’s descriptions and optimal product’s selection by parameters, support the existing structure of the site, communication with customers, correcting errors in the description of goods, approving comments to the goods/sites in the catalog of sites, and-hoc testing, testing UI),
 -   Teamwork (planning further development strategy, working with programmers and developers in the way of improving cms and UI)
+
+# Education
+
+**1993 – 2004 – Gymnasium №1 of Bobruisk, Belarus**
+
+Specialization: Physics and Mathematics Profile (including the subject "Programming in Pascal»)
+
+**2004 – 2009 – Belarusian State Economic University (BSEU), Minsk, Belarus**
+
+Department: Finance and Banking
+Specialization: finance and credit
+Qualification: economist;
+Full-time budget form of education;
+
+04/2012 – 06/2012 – Streamline language school "Intensive Communicative English course " (48 h), Intermediate + level,
+
+### Certificates
+
+**06/2012 - 08/2012 – Educational Center “Shipalex”**
+Course: Web Design - HTML, CSS, SEO (45h), Certificate
+
+**09/2012 – 12/2012 – Educational Center of Hi-Tech Park of Belarus** 
+Course: Web Developer - WD02 JavaScript (48h), WD03 MySQL (36h), WD04 PHP (44h), 3 Certificates
+
+### Courses
+
+**03/2019 - Udemy course "Angular - The Complete Guide"**
+Skill level: All Levels
+
+**06/2018 - Udemy course "Advanced Javascript"**
+Skill level: Intermediate
+
+### Other
+
+**11/2019 - CodeteCon Conference**, Kraków, Poland
+**10/2018 -  JS Poland - International JavaScript Conference**, Warsaw, Poland
